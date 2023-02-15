@@ -22,4 +22,4 @@ CSS
 ✈️ Acesse o site
 Hospedado no Netlify
 
-https://noticias-cidade-gsj.netlify.app/
+https://sitenoticiasdacidade.netlify.app/
